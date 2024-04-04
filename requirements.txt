@@ -18,4 +18,3 @@ PyPDF2
 docx2txt
 sentence-transformers
 InstructorEmbedding
-
