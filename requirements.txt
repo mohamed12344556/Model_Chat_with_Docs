@@ -5,7 +5,6 @@ huggingface_hub
 google-generativeai
 langchain_google_genai
 streamlit
-chainlit
 pandas
 openpyxl
 faker
